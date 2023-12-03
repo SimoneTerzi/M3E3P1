@@ -1,0 +1,78 @@
+body {
+  background-color: #f5f4f8;
+}
+
+.valor {
+  color: #ffca28 !important;
+}
+
+.col.x.d-flex.align-items-center.p-0 {
+  border-top: 1px solid #91979d;
+}
+
+.img-fluid.m-4.mt-0.mb-0:hover {
+  background-image: url(./icons/icons8-segnalibro-piena.png);
+  background-size: 15px;
+}
+
+.carousel-control-prev {
+  justify-content: flex-end;
+}
+
+.carousel-control-next {
+  justify-content: flex-start;
+}
+
+.carousel-control-prev-icon {
+  width: 3rem !important;
+  height: 3rem !important;
+}
+.carousel-control-next-icon {
+  width: 3rem !important;
+  height: 3rem !important;
+}
+
+.nav-button-button {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  margin: 0;
+  font-family: unset;
+  font-size: unset;
+  line-height: unset;
+  border: none;
+}
+
+.nav-button-button.j2 {
+  background-color: #ffeeda;
+}
+
+.nav-button-image {
+  width: 15px;
+  border-radius: 50%;
+  translate: 0px -2px !important;
+}
+
+.avatar {
+  height: 40px;
+}
+
+.jumbotron.j1 {
+  background-color: rgb(117, 80, 254);
+  align-items: center;
+  align-content: center;
+}
+
+.btn {
+  background-color: #1acb98;
+}
+
+.jumbotron.j2 {
+  border-bottom: 3px solid #ebeaf0;
+}
+
+.foot {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  border-top: 2px solid #ebeaf0;
+}
